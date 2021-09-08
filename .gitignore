@@ -6,7 +6,7 @@ ENV/
 .idea
 .DS_Store
 .history
-
+db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
